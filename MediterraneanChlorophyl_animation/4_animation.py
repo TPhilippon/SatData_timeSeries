@@ -6,7 +6,7 @@ import Image
 import glob
 
 varg=['sst11mic_8d','poc_8d', 'nsst_8d','chl_8d']
-varg=varg[1]  # Choisir la variable géochimique
+varg=varg[1]  # Choisir la variable gÃ©ochimique
 path = varg+'/png'
 
 fig = plt.figure()
